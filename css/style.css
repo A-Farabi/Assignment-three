@@ -8,3 +8,8 @@ li{
     width: calc((100% - 9%));
     margin: 0 auto;
 } */
+.social-links li{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
