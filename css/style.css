@@ -1,3 +1,6 @@
 .sectional-gap{
     margin-top: 132px;
 }
+li{
+    list-style: none;
+}
