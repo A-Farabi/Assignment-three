@@ -8,3 +8,23 @@ li{
     width: calc((100% - 9%));
     margin: 0 auto;
 } */
+
+/* .footer-title{
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 700;
+} */
+.nav-title{
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 700;
+}
+.f-single-nav{
+    color: rgba(255, 255, 255, 0.60);
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 40px;
+}
